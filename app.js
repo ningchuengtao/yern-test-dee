@@ -1,2 +1,3 @@
 console.log("Hello world!");
-console.log("emotonin")
+
+console.log{"Hellow word na"}
